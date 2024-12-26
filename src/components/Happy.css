@@ -1,0 +1,6 @@
+.happy{
+    background: linear-gradient(90deg, rgba(12, 42, 87, 0.651), rgba(26, 30, 31, 0.719)), url('https://i.ibb.co/YbhPjxZ/bg-3.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
